@@ -33,3 +33,13 @@
 /Users/user/WebAPI/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
 /Users/user/WebAPI/bin/Debug/net5.0/Npgsql.dll
 /Users/user/WebAPI/bin/Debug/net5.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\HP\Desktop\parcial 3 programacion\PARCIAL3\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\parcial 3 programacion\PARCIAL3\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\parcial 3 programacion\PARCIAL3\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\parcial 3 programacion\PARCIAL3\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+C:\Users\HP\Desktop\parcial 3 programacion\PARCIAL3\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\parcial 3 programacion\PARCIAL3\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\parcial 3 programacion\PARCIAL3\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\parcial 3 programacion\PARCIAL3\obj\Debug\net5.0\WebAPI.dll
+C:\Users\HP\Desktop\parcial 3 programacion\PARCIAL3\obj\Debug\net5.0\ref\WebAPI.dll
+C:\Users\HP\Desktop\parcial 3 programacion\PARCIAL3\obj\Debug\net5.0\WebAPI.pdb
