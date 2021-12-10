@@ -13,7 +13,5 @@ namespace WedAPI
         public int ShoesID {get;set;}
         public ShoesShop shoesShop {get;set;}
 
-
-
     }
 }

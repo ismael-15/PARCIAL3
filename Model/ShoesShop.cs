@@ -12,14 +12,5 @@ namespace WedAPI
         public string price {get;set;}
         public int Amount {get;set;}
 
-        public int BuyerID {get;set;}
-        public Buyer buyer {get;set;}
-
-
-
-
-
-
-
     }
 }
